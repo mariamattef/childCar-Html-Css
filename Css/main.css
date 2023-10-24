@@ -630,7 +630,7 @@ gap: 20px;
     flex-direction: column;
   }
   .products-items .product-img:hover .product-overlay{
-    left: 80px;
+    left: 30px;
   }
 }
 .products-items .product-img{
